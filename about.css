@@ -1,0 +1,32 @@
+/* =========================
+ABOUT SECTION */
+
+.about-section {
+    padding: 80px 8%;
+
+    background: #dbeafe;
+}
+
+.about-container {
+    max-width: 800px;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.about-container h2 {
+    font-size: 2.5rem;
+
+    margin-bottom: 20px;
+
+    color: #051923;
+}
+
+.about-container p {
+    line-height: 1.8;
+
+    color: #334155;
+
+    font-size: 1.1rem;
+}
